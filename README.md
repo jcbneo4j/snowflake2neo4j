@@ -1,4 +1,4 @@
-i# Healthcare Security Demo
+# Healthcare Security Demo
 
 A sample project showing how to secure healthcare data in **Snowflake** using roles with secure views, and ingest into a **Neo4j** graph with RBAC.
 
